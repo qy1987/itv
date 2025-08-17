@@ -1,4 +1,4 @@
-name: tvlist
+name: tvtest
 
 on:
   workflow_dispatch: 
